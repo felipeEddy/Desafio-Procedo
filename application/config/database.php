@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
+	'hostname' => 'sql213.epizy.com',
+	'username' => 'epiz_23784638',
+	'password' => 'pUhOT93ZCeviEQ',
 	'database' => 'db_challenge',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
