@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'sql213.epizy.com',
-	'username' => 'epiz_23784638',
-	'password' => 'pUhOT93ZCeviEQ',
+	'hostname' => 'files.000webhost.com',
+	'username' => 'guilherme-teste-procedo',
+	'password' => 'guilherme-teste',
 	'database' => 'db_challenge',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
